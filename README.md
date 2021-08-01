@@ -1,11 +1,12 @@
+# WARNING: This mod isn't complete and might not even run!
 <div align="center">
 
-# Template
+# Arc Compatibility for MinecraftForge
 
 </div>
 
 ## About
-Placeholder.
+Placeholder
 
 ## How to install
 Placeholder
